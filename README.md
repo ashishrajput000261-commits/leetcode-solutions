@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -75,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0148-sort-list) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
