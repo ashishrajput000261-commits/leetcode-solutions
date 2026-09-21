@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0143-reorder-list) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Floyd's Cycle Finding Algorithm
 |  |
