@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
