@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0018-4sum) |
 | [0142-linked-list-cycle-ii](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0148-sort-list) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0148-sort-list) |
 ## String
 |  |
