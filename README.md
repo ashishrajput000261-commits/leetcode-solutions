@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
