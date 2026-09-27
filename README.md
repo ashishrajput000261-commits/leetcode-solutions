@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1096-brace-expansion-ii](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -95,11 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Binary Search
 |  |
 | ------- |
