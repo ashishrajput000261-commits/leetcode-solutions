@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [2409-count-days-spent-together](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 ## Bracket Sequences
 |  |
 | ------- |
