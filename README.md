@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1254-number-of-closed-islands](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0148-sort-list) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
