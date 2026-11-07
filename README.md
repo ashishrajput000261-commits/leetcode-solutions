@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1882-process-tasks-using-servers](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/1882-process-tasks-using-servers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2747-count-zero-request-servers](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [1882-process-tasks-using-servers](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ashishrajput000261-commits/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Merge Sort
